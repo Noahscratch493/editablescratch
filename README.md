@@ -16,7 +16,7 @@ To customize Scratch's branding, follow these simple steps:
    - You can fork this repository to your GitHub account or download the latest release as a ZIP file.
 
 2. **Open the Project:**
-   - Navigate to the project folder and open the `index.html` file in your preferred text editor (e.g., Visual Studio Code, Sublime Text, Notepad++).
+   - Navigate to the root of EditableScratch and open the `index.html` file in your preferred text editor (e.g., Visual Studio Code, Sublime Text, Notepad++).
 
 3. **Edit the Branding:**
    - Locate the placeholder text labeled "Put Name Here" within the HTML file. Replace this text with your desired branding.
