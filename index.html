@@ -3,25 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Edit Scratch's Branding</title>
-    <script src="https://scratchfoundation.github.io/scratch-gui/gui.js"></script>
+    <title>EditableScratch</title>
+    <link rel="shortcut icon" href="static/favicon.png">
+    <script src="https://scratchfoundation.github.io/scratch-gui/gui.js" defer></script>
     <script>
         // Function to update the logo name
         function updateLogoName(name) {
             const logo = document.getElementById('logo_img');
             if (logo) {
-                if (name) {
-                    logo.textContent = name; // Set custom branding
-                } else {
-                    
-                }
+                logo.textContent = name; // Set custom branding
+            } else {
+                console.warn("Logo element not found.");
             }
         }
 
         window.onload = function() {
-            const brandingName = 'Put Name Here'; // Change this to your desired branding
+            const brandingName = 'EditableScratch'; // Change this to your desired branding
             updateLogoName(brandingName);
         };
     </script>
 </head>
+<body>
+    <!-- The body can be populated with more content as needed -->
+</body>
 </html>
