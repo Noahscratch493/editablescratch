@@ -21,8 +21,7 @@ To customize Scratch's branding, follow these simple steps:
    - Navigate to the root of EditableScratch and open the `index.html` file in your preferred text editor (e.g., Visual Studio Code, Sublime Text, Notepad++).
 
 3. **Edit the Branding:**
-   - Locate the placeholder text labeled "Put Name Here" within the HTML file. Replace this text with your desired branding.
-   - Customize other elements as needed, such as logo images or styles.
+   - Locate the placeholder text that says `const customText = 'EditableScratch';` and edit the "EditableScratch" part of the text.
 
 4. **Save Your Changes:**
    - After making your edits, save the `index.html` file.
