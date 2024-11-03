@@ -1,5 +1,7 @@
 # Edit Scratch's Branding
 
+![EditableScratch](https://raw.githubusercontent.com/Noahscratch493/editable-scratch3/refs/heads/main/static/EditableScratch-Logo.png)
+
 Welcome to the **Edit Scratch's Branding** project! This tool allows you to easily customize the branding of Scratch by modifying a simple HTML file. Change the logo, text, and more to create a personalized experience.
 
 ## Features
