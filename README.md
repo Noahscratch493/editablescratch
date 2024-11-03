@@ -8,7 +8,6 @@ Welcome to the **EditableScratch** project! This tool allows you to easily custo
 
 - **Customizable Logo Text:** Replace the default logo with your own branding text.
 - **Simple HTML Editing:** No complex setup required—just edit a single HTML file!
-- **Live Preview:** See your changes in real time by refreshing your Scratch project.
 
 ## Getting Started
 
