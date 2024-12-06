@@ -6,7 +6,7 @@ def create_mod(output="download-code"):
         output (str): Either "download-code" to save to the Downloads folder or a variable to store the code.
     """
     # Ask the user for the programming language title and name
-    print('EditableScratch - Fast Scratch Mod Creator v1.0.0 - Offline Version')
+    print('EditableScratch - Fast Scratch Mod Creator v1.0.1')
     print('')
     language_title = input("Choose a page title (for the HTML <title>): ")
     language_name = input("Choose a programming language name (displayed in the navbar): ")
@@ -39,7 +39,7 @@ def create_mod(output="download-code"):
 
                 // Create a link element for the EditableScratch logo
                 const logoLink = document.createElement('a');
-                logoLink.href = 'https://github.com/Noahscratch493/editablescratch/tree/main'; // Link to GitHub
+                logoLink.href = 'https://editablescratch.fungamesz.com'; // Link to Website
                 logoLink.target = '_blank'; // Open link in new tab
 
                 // Create an image element for the EditableScratch logo
