@@ -6,7 +6,7 @@ def create_mod(output="download-code"):
         output (str): Either "download-code" to save to the Downloads folder or a variable to store the code.
     """
     # Ask the user for the programming language title and name
-    print('EditableScratch - Fast Scratch Mod Creator v1.0.1')
+    print('EditableScratch - Fast Scratch Mod Creator v1.0.1 - Offline Version')
     print('')
     language_title = input("Choose a page title (for the HTML <title>): ")
     language_name = input("Choose a programming language name (displayed in the navbar): ")
